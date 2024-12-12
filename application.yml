@@ -6,7 +6,7 @@ poll:
     - Parrot
     - Rabbit
   images:
-    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/ffe17bbaac87043dd27a5ef1ae1a56d511407adb/dog.jpg
-    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/master/cat.jpg
-    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/master/parrot.jpg
-    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/master/rabbit.jpg
+    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/main/dog.jpg
+    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/main/cat.jpg
+    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/main/parrot.jpg
+    - https://raw.githubusercontent.com/odedia/cloudnativepoll-config/refs/heads/main/rabbit.jpg
